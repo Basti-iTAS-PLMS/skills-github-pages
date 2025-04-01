@@ -1,4 +1,6 @@
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: test page for documentation - I guess
 author: Sebastian Moosbauer
 description: well, would be great to have one...
